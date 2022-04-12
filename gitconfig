@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = finnmichel@gmx.de
+	name = Finn Michel
